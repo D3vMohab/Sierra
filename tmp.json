@@ -15,7 +15,7 @@
     "Name": "unc0ver",
     "Preview": [  ],
     "Category": "Jailbreak",
-    "Version": 1,
+    "Version": "1",
     "BundleID": "com.apple.app",
     "Description": "unc0ver is designed to be stable and enable freedom from the moment you jail​break your device. Built-in runtime policy softener allows running code without Apple's notarization and pervasive restrictions. Proper runtime modifications to iOS kernel"
   },
@@ -38,7 +38,7 @@
     "Name": "unc0ver",
        "Preview": [  ],
     "Category": "Jailbreak",
-    "Version": 1,
+    "Version": "1",
     "BundleID": "com.apple.app",
     "Description": "unc0ver is designed to be stable and enable freedom from the moment you jail​break your device. Built-in runtime policy softener allows running code without Apple's notarization and pervasive restrictions. Proper runtime modifications to iOS kernel"
   }, {
@@ -60,7 +60,7 @@
     "Name": "unc0ver",
        "Preview": [  ],
     "Category": "Jailbreak",
-    "Version": 1,
+    "Version": "1",
     "BundleID": "com.apple.app",
     "Description": "unc0ver is designed to be stable and enable freedom from the moment you jail​break your device. Built-in runtime policy softener allows running code without Apple's notarization and pervasive restrictions. Proper runtime modifications to iOS kernel"
   }
