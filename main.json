@@ -1,0 +1,35 @@
+[
+  {
+    "RepoIcon": "https://ispoofer.app/assets/imgs/AppIcon.png",
+    "RepoName": "iThunder",
+    "RepoColor": "fbd304"
+  },
+  
+  
+  {
+    "iPA": "https://ispoofer.app/Signed.ipa",
+    "Icon": "https://ispoofer.app/assets/imgs/AppIcon.png",
+    "Name": "iSpoofer",
+    "Preview": [
+      "https://ispoofer.app/assets/imgs/AppIcon.png",
+      "https://ispoofer.app/assets/imgs/AppIcon.png"
+    ],
+    "Category": "Games",
+    "Version": "0.320.1",
+    "BundleID": "com.apple.app",
+    "Description": "iSpoofer App was created in 2018, then we had to close it because Niantic, Inc. sued us and won the lawsuit, In 2023 we are starting a new beginning even though most of our team left but some of us are still here and we added some new clients to our team, Our app is still using the old tweak since we didn't have time to make it before 2023 so we are using the old tweaks till we create a new one"
+  },
+  {
+    "iPA": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+    "Icon": "https://ispoofer.app/assets/imgs/AppIcon.png",
+    "Name": "unc0ver",
+    "Preview": [
+      "https://ispoofer.app/assets/imgs/AppIcon.png",
+      "https://ispoofer.app/assets/imgs/AppIcon.png"
+    ],
+    "Category": "Jailbreak",
+    "Version": "0.320.1",
+    "BundleID": "com.apple.app",
+    "Description": "unc0ver is designed to be stable and enable freedom from the moment you jail​break your device. Built-in runtime policy softener allows running code without Apple's notarization and pervasive restrictions. Proper runtime modifications to iOS kernel"
+  }
+]
