@@ -22,11 +22,7 @@
   {
     "iPA": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
     "Icon": "https://pbs.twimg.com/profile_images/1171122350177153025/OknpE-Oo_400x400.jpg",
-    "Name": "unc0ver",
-    "Preview": [
-      "https://ispoofer.app/assets/imgs/AppIcon.png",
-      "https://ispoofer.app/assets/imgs/AppIcon.png"
-    ],
+    "Name": "unc0ver"
     "Category": "Jailbreak",
     "Version": 1,
     "BundleID": "com.apple.app",
