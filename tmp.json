@@ -3,10 +3,7 @@
     "iPA": "https://ispoofer.app/Signed.ipa",
     "Icon": "https://ispoofer.app/assets/imgs/AppIcon.png",
     "Name": "iSpoofer",
-    "Preview": [
-      "https://ispoofer.app/assets/imgs/AppIcon.png",
-      "https://ispoofer.app/assets/imgs/AppIcon.png"
-    ],
+    "Preview": [  ],
     "Category": "Games",
     "Version": "0.320.1",
     "BundleID": "com.apple.app",
