@@ -6,7 +6,7 @@
     "Preview": [  ],
     "Category": "Games",
     "Version": "0.320.1",
-    "BundleID": "com.apple.app",
+    "BundleID": "com.apple.app.go",
     "Description": "iSpoofer App was created in 2018, then we had to close it because Niantic, Inc. sued us and won the lawsuit, In 2023 we are starting a new beginning even though most of our team left but some of us are still here and we added some new clients to our team, Our app is still using the old tweak since we didn't have time to make it before 2023 so we are using the old tweaks till we create a new one"
   },
   {
@@ -16,52 +16,49 @@
     "Preview": [  ],
     "Category": "Jailbreak",
     "Version": "1",
-    "BundleID": "com.apple.app",
+    "BundleID": "com.apple.app.un",
     "Description": "unc0ver is designed to be stable and enable freedom from the moment you jail​break your device. Built-in runtime policy softener allows running code without Apple's notarization and pervasive restrictions. Proper runtime modifications to iOS kernel"
   },
  {
     "iPA": "https://ispoofer.app/Signed.ipa",
-    "Icon": "https://ispoofer.app/assets/imgs/AppIcon.png",
-    "Name": "iSpoofer",
-    "Preview": [
-      "https://ispoofer.app/assets/imgs/AppIcon.png",
-      "https://ispoofer.app/assets/imgs/AppIcon.png"
-    ],
-    "Category": "Games",
-    "Version": "0.320.1",
-    "BundleID": "com.apple.app",
-    "Description": "iSpoofer App was created in 2018, then we had to close it because Niantic, Inc. sued us and won the lawsuit, In 2023 we are starting a new beginning even though most of our team left but some of us are still here and we added some new clients to our team, Our app is still using the old tweak since we didn't have time to make it before 2023 so we are using the old tweaks till we create a new one"
+    "Icon": "https://cdn5.vectorstock.com/i/1000x1000/62/04/twitter-new-logo-icons-x-vector-48766204.jpg",
+    "Name": "Twitter",
+    "Preview": [],
+    "Category": "Social",
+    "Version": "1.21",
+    "BundleID": "com.apple.app.twitter",
+    "Description": "Twitter++"
   },
   {
-    "iPA": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+    "iPA": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/uncfdfd0ver_Release_8.0.2.ipa",
     "Icon": "https://pbs.twimg.com/profile_images/1171122350177153025/OknpE-Oo_400x400.jpg",
-    "Name": "unc0ver",
+    "Name": "unc0vfdfdfder",
        "Preview": [  ],
-    "Category": "Jailbreak",
-    "Version": "1",
-    "BundleID": "com.apple.app",
-    "Description": "unc0ver is designed to be stable and enable freedom from the moment you jail​break your device. Built-in runtime policy softener allows running code without Apple's notarization and pervasive restrictions. Proper runtime modifications to iOS kernel"
+    "Category": "Jailbfdfdfdreak",
+    "Version": "fdfdfdf1",
+    "BundleID": "com.apple.app/fdfdf",
+    "Description": "unc0ver is defdfdfdfsigned to be stable and enable freedom from the moment you jail​break your device. Built-in runtime policy softener allows running code without Apple's notarization and pervasive restrictions. Proper runtime modifications to iOS kernel"
   }, {
-    "iPA": "https://ispoofer.app/Signed.ipa",
+    "iPA": "https://ispoofer.app/fdfdfSigned.ipa",
     "Icon": "https://ispoofer.app/assets/imgs/AppIcon.png",
-    "Name": "iSpoofer",
+    "Name": "iSpoofdfdffer",
     "Preview": [
       "https://ispoofer.app/assets/imgs/AppIcon.png",
       "https://ispoofer.app/assets/imgs/AppIcon.png"
     ],
-    "Category": "Games",
-    "Version": "0.320.1",
-    "BundleID": "com.apple.app",
-    "Description": "iSpoofer App was created in 2018, then we had to close it because Niantic, Inc. sued us and won the lawsuit, In 2023 we are starting a new beginning even though most of our team left but some of us are still here and we added some new clients to our team, Our app is still using the old tweak since we didn't have time to make it before 2023 so we are using the old tweaks till we create a new one"
+    "Category": "Gamfdfdfdes",
+    "Version": "0.320.fdf1",
+    "BundleID": "com.apple.app.fdfd",
+    "Description": "fdf App was created in 2018, then we had to close it because Niantic, Inc. sued us and won the lawsuit, In 2023 we are starting a new beginning even though most of our team left but some of us are still here and we added some new clients to our team, Our app is still using the old tweak since we didn't have time to make it before 2023 so we are using the old tweaks till we create a new one"
   },
   {
     "iPA": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
-    "Icon": "https://pbs.twimg.com/profile_images/1171122350177153025/OknpE-Oo_400x400.jpg",
-    "Name": "unc0ver",
+    "Icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzd0PI57ZeMqfzygu-3FefEJLjiOmCLARUGNnCHzbU_dDzvtEuDJZEWoUXDwU_-txINrA&usqp=CAU",
+    "Name": "Delta",
        "Preview": [  ],
-    "Category": "Jailbreak",
-    "Version": "1",
-    "BundleID": "com.apple.app",
-    "Description": "unc0ver is designed to be stable and enable freedom from the moment you jail​break your device. Built-in runtime policy softener allows running code without Apple's notarization and pervasive restrictions. Proper runtime modifications to iOS kernel"
+    "Category": "Emulator",
+    "Version": "1.32",
+    "BundleID": "com.apple.app.delta",
+    "Description": "Delta EMULATOR"
   }
 ]
