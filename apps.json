@@ -1,0 +1,115 @@
+[
+{
+	"iPA":"https://ipa.sierra.app/ipa/PPSSPP.ipa",
+	"Icon":"https://ipa.sierra.app/icon/PPSSPP.png",
+	"Name":"PPSSPP",
+	"Preview":["https://play-lh.googleusercontent.com/HAp1cxykBnmG9b_w2NTFv_z_zgxpQB0pGYQw74fg6aY4egDlW-MQ_Rv5fCcMhgN5zpo=w526-h296-rw","https://play-lh.googleusercontent.com/eCvu3LH1N7EzLjG_mFAstP81jn8gMf9ih9XsIYqH5t1d963UA7a7Nv89eQoImawABjg=w526-h296-rw","https://play-lh.googleusercontent.com/MO9w8tt4xSN6atFrmhJs9lTx921cDBY0Yn3wrvE5-5l9NOHXjyMUAGxmrNuxNob4En7m=w526-h296-rw","https://play-lh.googleusercontent.com/3xfEVcofUi6imftsK7dkhJb5rVy3PZev7LpZXIvslobHF7jGm_i6zQiDOyG6vbRoZQ=w526-h296-rw"],
+	"Category":"Emulators",
+	"Version":"1.12",
+	"BundleID":"org.ppsspp.ppsspp",
+	"Description":"PPSSPP can run your PSP games on your PC or Android phone in full HD resolution or even higher. It can also upscale textures to make them sharper, and you can enable post-processing shaders to adjust color and brightness the way you like, and other effects."
+
+},
+{
+	"iPA":"https://ispoofer.app/main.ipa",
+	"Icon":"https://ispoofer.app/iSpoofer.png",
+	"Name":"iSpoofer",
+	"Preview":["https://i.imgur.com/boayPDE.png","https://i.imgur.com/boayPDE.png"],
+	"Category":"Games",
+	"Version":"0.293.1",
+	"BundleID":"com.nianticlabs.pokemongo",
+	"Description":"If you’re an avid Pokémon Go player, you have probably heard of iSpoofer. iSpoofer is a popular app that allows players to spoof their GPS location in order to catch Pokémon in different parts of the world without leaving the comfort of their own homes."
+	
+	
+}
+	
+	
+	,
+	{
+		"iPA":"https://ipa.sierra.app/ipa/Delta.ipa",
+		"Icon":"https://ipa.sierra.app/icon/Delta.png",
+		"Name":"Delta",
+		"Preview":["https://i.imgur.com/boayPDE.png","https://i.imgur.com/FUSsPZc.png","https://i.imgur.com/sgYNWdS.png"],
+		"Category":"Emulators",
+		"Version":"1.1.2",
+		"BundleID":"com.rileytestut.Delta",
+		"Description":"Delta offers access to games for: Nintendo , Super Nintendo , Nintendo 64, Game Boy Color , Game Boy Advance"
+		
+		
+	}
+	,
+	{
+		"iPA":"https://ipa.sierra.app/ipa/iNDS.ipa",
+		"Icon":"https://ipa.sierra.app/icon/iNDS.png",
+		"Name":"iNDS",
+		"Preview":["https://i.imgur.com/DaKLfvV.png","https://i.imgur.com/htg9X0q.jpg","https://i.imgur.com/EiNpcLz.jpg"],
+		"Category":"Emulators",
+		"Version":"1.5.4",
+		"BundleID":"com.kabiroberai.iNDS",
+		"Description":"Emulator for Nintendo DS. Download files only for Nintendo DS!"
+		
+		
+	}
+	,
+	{
+		"iPA":"https://ipa.sierra.app/ipa/instaRocket.ipa",
+		"Icon":"https://ipa.sierra.app/icon/instaRocket.png",
+		"Name":"Instagram",
+		"Preview":["https://i.imgur.com/IbrFhPP.jpg","https://i.imgur.com/6KNXv2t.png","https://i.imgur.com/bOdgebG.png"],
+		"Category":"Social",
+		"Version":"262.0",
+		"BundleID":"com.burbn.instagram",
+		"Description":"Rocket for Instagram brings the much-beloved grid layout for the home feed.Save Posts to Gallery. With Rocket for Instagram, you can save any photo or video posted on Instagram to your device. Check whether other users follow you or not by simply visiting their own profile."
+		
+		
+	}
+	
+	
+	,
+	{
+		"iPA":"https://ipa.sierra.app/ipa/Watusi.ipa",
+		"Icon":"https://ipa.sierra.app/icon/Watusi.png",
+		"Name":"Watusi",
+		"Preview":["https://i.imgur.com/C5l4Tjo.png","https://i.imgur.com/w4AYsjw.png","https://i.imgur.com/GcW91YR.png"],
+		"Category":"Social",
+		"Version":"23.12.76",
+		"BundleID":"net.whatsapp.WhatsApp",
+		"Description":"Features: - Stealth Mode - Disable Read Receipts - Selective Read Receipts - Disable Delivery Receipts - Custom Theme - Custom Text Color - Full Profile Pic - Send Unlimited Media - Share Music - Record audio - Passcode/TouchID"
+		
+		
+	}
+	
+	
+	
+	,
+	{
+		"iPA":"https://ipa.sierra.app/ipa/Spotify.ipa",
+		"Icon":"https://ipa.sierra.app/icon/Spotify.png",
+		"Name":"Spotify++",
+		"Preview":["https://i.imgur.com/HOOLjBS.png","https://i.imgur.com/zucY7my.png","https://i.imgur.com/3iYPucd.png"],
+		"Category":"Music",
+		"Version":"8.8.48",
+		"BundleID":"com.spotify.client",
+		"Description":"Video Star is your #1 video editing app — there's no other app like it! Create incredible fan edits and amazing lip-sync music videos with Video Star."
+		
+		
+	}
+	,
+	{
+		"iPA":"https://ipa.sierra.app/ipa/YouTube.ipa",
+		"Icon":"https://ipa.sierra.app/icon/YouTube.png",
+		"Name":"YouTube++",
+		"Preview":["https://i.imgur.com/HOOLjBS.png","https://i.imgur.com/zucY7my.png","https://i.imgur.com/3iYPucd.png"],
+		"Category":"Photo & Video",
+		"Version":"17.48.2",
+		"BundleID":"com.google.ios.youtube",
+		"Description":"With uYou, you can enjoy video and audio downloads with importing features, play videos in PiP (Picture In Picture), background audio playback, and a whole lot of other features that are usually restricted/not available in the YouTube app."
+		
+		
+	}
+	
+	
+	
+	
+	
+]
